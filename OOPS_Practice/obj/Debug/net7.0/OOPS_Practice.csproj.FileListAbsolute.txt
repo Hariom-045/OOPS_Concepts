@@ -1,0 +1,15 @@
+/Users/hariompanchal/Desktop/Programming/Projects /Dot net core Projects/OOPS_Practice/OOPS_Practice/bin/Debug/net7.0/OOPS_Practice
+/Users/hariompanchal/Desktop/Programming/Projects /Dot net core Projects/OOPS_Practice/OOPS_Practice/bin/Debug/net7.0/OOPS_Practice.deps.json
+/Users/hariompanchal/Desktop/Programming/Projects /Dot net core Projects/OOPS_Practice/OOPS_Practice/bin/Debug/net7.0/OOPS_Practice.runtimeconfig.json
+/Users/hariompanchal/Desktop/Programming/Projects /Dot net core Projects/OOPS_Practice/OOPS_Practice/bin/Debug/net7.0/OOPS_Practice.dll
+/Users/hariompanchal/Desktop/Programming/Projects /Dot net core Projects/OOPS_Practice/OOPS_Practice/bin/Debug/net7.0/OOPS_Practice.pdb
+/Users/hariompanchal/Desktop/Programming/Projects /Dot net core Projects/OOPS_Practice/OOPS_Practice/obj/Debug/net7.0/OOPS_Practice.csproj.AssemblyReference.cache
+/Users/hariompanchal/Desktop/Programming/Projects /Dot net core Projects/OOPS_Practice/OOPS_Practice/obj/Debug/net7.0/OOPS_Practice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hariompanchal/Desktop/Programming/Projects /Dot net core Projects/OOPS_Practice/OOPS_Practice/obj/Debug/net7.0/OOPS_Practice.AssemblyInfoInputs.cache
+/Users/hariompanchal/Desktop/Programming/Projects /Dot net core Projects/OOPS_Practice/OOPS_Practice/obj/Debug/net7.0/OOPS_Practice.AssemblyInfo.cs
+/Users/hariompanchal/Desktop/Programming/Projects /Dot net core Projects/OOPS_Practice/OOPS_Practice/obj/Debug/net7.0/OOPS_Practice.csproj.CoreCompileInputs.cache
+/Users/hariompanchal/Desktop/Programming/Projects /Dot net core Projects/OOPS_Practice/OOPS_Practice/obj/Debug/net7.0/OOPS_Practice.dll
+/Users/hariompanchal/Desktop/Programming/Projects /Dot net core Projects/OOPS_Practice/OOPS_Practice/obj/Debug/net7.0/refint/OOPS_Practice.dll
+/Users/hariompanchal/Desktop/Programming/Projects /Dot net core Projects/OOPS_Practice/OOPS_Practice/obj/Debug/net7.0/OOPS_Practice.pdb
+/Users/hariompanchal/Desktop/Programming/Projects /Dot net core Projects/OOPS_Practice/OOPS_Practice/obj/Debug/net7.0/OOPS_Practice.genruntimeconfig.cache
+/Users/hariompanchal/Desktop/Programming/Projects /Dot net core Projects/OOPS_Practice/OOPS_Practice/obj/Debug/net7.0/ref/OOPS_Practice.dll

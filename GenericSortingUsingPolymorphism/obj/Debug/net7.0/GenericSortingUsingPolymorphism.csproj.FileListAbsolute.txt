@@ -1,0 +1,15 @@
+/Users/hariompanchal/Desktop/Programming/Projects /Dot net core Projects/OOPS_Practice/GenericSortingUsingPolymorphism/bin/Debug/net7.0/GenericSortingUsingPolymorphism
+/Users/hariompanchal/Desktop/Programming/Projects /Dot net core Projects/OOPS_Practice/GenericSortingUsingPolymorphism/bin/Debug/net7.0/GenericSortingUsingPolymorphism.deps.json
+/Users/hariompanchal/Desktop/Programming/Projects /Dot net core Projects/OOPS_Practice/GenericSortingUsingPolymorphism/bin/Debug/net7.0/GenericSortingUsingPolymorphism.runtimeconfig.json
+/Users/hariompanchal/Desktop/Programming/Projects /Dot net core Projects/OOPS_Practice/GenericSortingUsingPolymorphism/bin/Debug/net7.0/GenericSortingUsingPolymorphism.dll
+/Users/hariompanchal/Desktop/Programming/Projects /Dot net core Projects/OOPS_Practice/GenericSortingUsingPolymorphism/bin/Debug/net7.0/GenericSortingUsingPolymorphism.pdb
+/Users/hariompanchal/Desktop/Programming/Projects /Dot net core Projects/OOPS_Practice/GenericSortingUsingPolymorphism/obj/Debug/net7.0/GenericSortingUsingPolymorphism.csproj.AssemblyReference.cache
+/Users/hariompanchal/Desktop/Programming/Projects /Dot net core Projects/OOPS_Practice/GenericSortingUsingPolymorphism/obj/Debug/net7.0/GenericSortingUsingPolymorphism.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hariompanchal/Desktop/Programming/Projects /Dot net core Projects/OOPS_Practice/GenericSortingUsingPolymorphism/obj/Debug/net7.0/GenericSortingUsingPolymorphism.AssemblyInfoInputs.cache
+/Users/hariompanchal/Desktop/Programming/Projects /Dot net core Projects/OOPS_Practice/GenericSortingUsingPolymorphism/obj/Debug/net7.0/GenericSortingUsingPolymorphism.AssemblyInfo.cs
+/Users/hariompanchal/Desktop/Programming/Projects /Dot net core Projects/OOPS_Practice/GenericSortingUsingPolymorphism/obj/Debug/net7.0/GenericSortingUsingPolymorphism.csproj.CoreCompileInputs.cache
+/Users/hariompanchal/Desktop/Programming/Projects /Dot net core Projects/OOPS_Practice/GenericSortingUsingPolymorphism/obj/Debug/net7.0/GenericSortingUsingPolymorphism.dll
+/Users/hariompanchal/Desktop/Programming/Projects /Dot net core Projects/OOPS_Practice/GenericSortingUsingPolymorphism/obj/Debug/net7.0/refint/GenericSortingUsingPolymorphism.dll
+/Users/hariompanchal/Desktop/Programming/Projects /Dot net core Projects/OOPS_Practice/GenericSortingUsingPolymorphism/obj/Debug/net7.0/GenericSortingUsingPolymorphism.pdb
+/Users/hariompanchal/Desktop/Programming/Projects /Dot net core Projects/OOPS_Practice/GenericSortingUsingPolymorphism/obj/Debug/net7.0/GenericSortingUsingPolymorphism.genruntimeconfig.cache
+/Users/hariompanchal/Desktop/Programming/Projects /Dot net core Projects/OOPS_Practice/GenericSortingUsingPolymorphism/obj/Debug/net7.0/ref/GenericSortingUsingPolymorphism.dll
