@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{547D84C6-CE77-4CA0-8DBC-B47157A712DD}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="OOPS_Practice/Class Files/Student.cs">
+    <Files>
+      <File FileName="OOPS_Practice/Program.cs" Line="11" Column="48" />
+      <File FileName="OOPS_Practice/Class Files/Student.cs" Line="20" Column="21" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="OOPS_Practice" expanded="True">
+            <Node name="OOPS_Practice" expanded="True">
+              <Node name="Class Files" expanded="True">
+                <Node name="Student.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.OOPS__Practice PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
