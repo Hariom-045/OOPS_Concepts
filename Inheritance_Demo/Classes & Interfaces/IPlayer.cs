@@ -4,5 +4,5 @@ public interface IPlayer
 {
     void play();
 
-    void celebrateVictory();
+    
 }
